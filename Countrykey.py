@@ -8,6 +8,7 @@ def display_menu():
     print('exit - Exit the program')
     print('----------------------------------')
 
+
 def prepopulate_countries():
     return {
       "USA": "United States of America",
